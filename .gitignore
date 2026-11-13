@@ -1,0 +1,5 @@
+/target
+/.playwright-mcp
+/tests/fixtures/
+*.md
+!/README.md
